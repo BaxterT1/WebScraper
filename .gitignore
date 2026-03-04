@@ -1,2 +1,5 @@
 # Exclude .env file from version control
 .env
+
+# Remove node_modules from version control
+node_modules/
