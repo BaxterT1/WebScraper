@@ -1,4 +1,4 @@
-This is a very basic image scraper for any html webpage. Just paste the URL when prompted of the webpage that you want to scrape. 
+This is an image scraper for any html webpage. Just paste the URL when prompted of the webpage that you want to scrape. 
 * Currently only scrapes the image in the resolution as its displayed on the webpage, meaning you can't get full resolution images.
   
 * Future plans: 
